@@ -1,0 +1,15 @@
+# Eclipse & Java
+.metadata/
+.recommenders/
+.settings/
+.classpath
+.project
+.buildpath
+bin/
+target/
+*.class
+*.log
+
+# OS noise
+.DS_Store
+Thumbs.db

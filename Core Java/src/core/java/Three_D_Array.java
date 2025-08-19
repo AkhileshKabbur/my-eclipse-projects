@@ -32,7 +32,7 @@ public class Three_D_Array {
 				System.out.println();
 		}
 		System.out.println("----------------");
-	}ha
+	}
 
  }
 
